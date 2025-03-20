@@ -1,8 +1,3 @@
-Here’s a **README.md** file with clear instructions on how to set up and run your **Docker Compose** environment. 🚀  
-
----
-
-### **📘 README.md**
 
 ```md
 # 🛠️ RAG-Based Chatbot with Streamlit Frontend & FastAPI Backend
@@ -132,4 +127,4 @@ Happy Coding! 🎉
 ✅ **Troubleshooting section** for common Docker issues  
 ✅ **Proper project structure breakdown**  
 
-This README ensures **anyone** can set up and run your project **easily!** 🚀
+Thanks me later ```Ali Hasnain```
