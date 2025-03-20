@@ -1,3 +1,8 @@
+# Live Demo
+
+
+https://github.com/user-attachments/assets/e9111923-68c1-4be8-86e3-55f39fcfb9c4
+
 
 ```md
 # 🛠️ RAG-Based Chatbot with Streamlit Frontend & FastAPI Backend
@@ -105,10 +110,6 @@ docker-compose up --build
 
 ---
 
-## 📜 **License**
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 👨‍💻 **Author**
 Developed by **Ali Hasnain** 🚀  
@@ -119,12 +120,3 @@ For any issues or feature requests, please [open an issue](https://github.com/al
 Happy Coding! 🎉
 ```
 
----
-
-### **📌 Key Highlights of the README**
-✅ **Clear setup instructions** for cloning, building, and running  
-✅ **Access URLs** for frontend and backend  
-✅ **Troubleshooting section** for common Docker issues  
-✅ **Proper project structure breakdown**  
-
-Thanks me later ```Ali Hasnain```
