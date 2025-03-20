@@ -30,6 +30,23 @@ cd rag-chatbot
 
 ---
 
+### **3️⃣ Create a `.env` File**
+Before running the application, create a `.env` file in the **RAG_API** directory and add your OpenAI API key:
+
+```bash
+cd RAG_API
+touch .env
+```
+
+Inside the `.env` file, add:
+```
+OPENAI_API_KEY=your_openai_api_key_here
+```
+> Replace `your_openai_api_key_here` with your actual OpenAI API key.
+
+---
+
+
 ### **3️⃣ Build & Run Containers**
 Use Docker Compose to build and start both services (**FastAPI Backend** & **Streamlit Frontend**).
 ```bash
